@@ -1,0 +1,9 @@
+php artisan serve (Main)
+php artisan serve --port=8081 (Web Service)
+
+php artisan migrate
+php artisan db:seed
+
+php artisan cache:clear
+php artisan route:cache
+php artisan optimize

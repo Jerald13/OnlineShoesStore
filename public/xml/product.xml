@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<products>
+    <product>
+        <name>Testing 3</name>
+        <price>13.50</price>
+        <quantity>30</quantity>
+        <imageUrl>/img/testing.png</imageUrl>
+    </product>
+</products>

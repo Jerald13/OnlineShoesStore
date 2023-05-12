@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<users>
+    <user>
+        <username>Testing123</username>
+        <email>Hello123@gmail.com</email>
+        <password>$2y$10$UKCofkGEf0RJk4ByunGdpep7xkeNRV/e8R4hdnkY0wI5ARdOXNCRS</password>
+        <isAdmin>1</isAdmin>
+    </user>
+</users>
